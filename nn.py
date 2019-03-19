@@ -1,7 +1,4 @@
-## this is example skeleton code for a Tensorflow/PyTorch neural network 
-## module. You are not required to, and indeed probably should not
-## follow these specifications exactly. Just try to get a sense for the kind
-## of program structure that might make this convenient to implement.
+# Contributers: Patrick Stanton, Kaitlynn Pugliese, and Nick Bullard
 
 # overall module class which is subclassed by layer instances
 # contains a forward method for computing the value for a given
